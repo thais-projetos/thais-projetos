@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome! My name is Thaís Cristina and I'm a Full Stack DeveloperI'm a Computer Science student passionate about coding. 📚</p>
+<p align="left">Welcome! My name is Thaís Cristina and I'm a Computer Science student passionate about coding. 📚</p>
 
 ###
 
