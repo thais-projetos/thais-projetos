@@ -15,7 +15,7 @@
   Turning data into decisions with logic, curiosity, and creativity.🎲
 </p>
 
-## 💜 About me
+## About me
 
 🎓 Computer Science student  
 💼 Career transition from administration to **Technology**  
