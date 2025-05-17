@@ -1,31 +1,64 @@
-<h1 align="left">Hi, nice to see you here! 🚀</h1>
+<h1 align="center">
+  Thaís Cristina
+ 
+</h1>
 
-###
+<p align="center">
+ 
+</p>
 
-<p align="left">Welcome! My name is Thaís Cristina and I'm a Computer Science student passionate about coding. 📚</p>
+<p align="center">
+  <strong>Computer Science Student | Focused on Data Analysis</strong>
+</p>
 
-###
+<p align="center">
+  Turning data into decisions with logic, curiosity, and creativity.🎲
+</p>
 
-<h2 align="left">I code with</h2>
+## 💜 About me
 
-###
+🎓 Computer Science student  
+💼 Career transition from administration to **Technology**  
+📊 Focused on **Data Analysis** with Python, SQL, Excel, and Power BI  
+📍 Based in the Central-West region of Brazil  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+---
+
+## 🚀 Technologies and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3C2F8C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-6C3483?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-8E44AD?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-5B2C6F?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-76448A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-9B59B6?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-###
+---
 
-<p align="left">print("Let's code and collaborate! 💻")</p>
+## 📂 Featured Repositories
 
-###
+- 📊 **Data Analysis with Python and Pandas** – In development  
+- 📈 **Sales Dashboard in Power BI** – Commercial data visualization  
+- 📚 **Exercises and Studies** – Organizing my continuous learning
+
+---
+
+## 🌐 Let's connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinathais/)
+[![Gmail](https://img.shields.io/badge/Gmail-6C3483?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcandradesantoss@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-76448A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/criistinathaiss)
+
+</div>
+
+---
+
+<p align="center">
+  💜 Thank you for visiting my profile!
+</p>
+
