@@ -1,5 +1,5 @@
 <h1 align="center">
-  Thaís Cristina
+ Hi, I’m Thaís Cristina 💜
  
 </h1>
 
